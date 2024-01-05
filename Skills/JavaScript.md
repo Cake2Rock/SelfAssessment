@@ -1,89 +1,92 @@
 ## Programming fundamental concepts
-
+👂 heard - чув про таке
+🎓 known - вивчав, знаю
+🖐️ used - використовував у 
+🙋 explained
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🎓 known
+  - async function🎓 known
+  - call🎓 known
+  - bind🎓 known
+  - apply🎓 known
+  - instanceof🖐️ used
+  - ...spread👂 heard 
+  - ...rest🎓 known
+  - typeof🎓 known
+  - destructuring👂 heard 
+  - generator👂 heard 
+  - iterator🎓 known
+  - async generator👂 heard
+  - async iterator👂 heard
+  - chaining👂 heard
+  - optional chaining👂 heard
+  - IIFE👂 heard
+  - global🎓 known
+  - globalThis🎓 known
+  - window👂 heard
   - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - __proto__🎓 known
+  - prototype👂 heard
+  - equality operators🎓 known
+  - logical operators🎓 known
+  - bitwise operators🎓 known
+  - ternary operator🎓 known
+  - void🎓 known
+  - yield🎓 known
+  - await👂 heard
   - template literal
   - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - delete🎓 known
+  - in🎓 known
+  - super👂 heard
+  - Symbol🎓 known
+  - Reflect👂 heard
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ used
+  - for..inv🖐️ used
+  - for..ofv🎓 known
+  - for await🎓 known
+  - throw👂 heard
+  - break🖐️ used
+  - continue🖐️ used
+  - import🖐️ used
+  - export🖐️ used
+  - label🖐️ used
+  - try..catch🖐️ used
+  - switch🖐️ used
+  - class🖐️ used
+  - new Error👂 heard
+  - with🖐️ used
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration🖐️ used
+  - function expression🖐️ used
+  - return🖐️ used
+  - default parameters🖐️ used
+  - functional object🖐️ used
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
+  - Array🖐️ used
+  - mixin👂 heard
+  - extend👂 heard
+  - typed arrays👂 heard
+  - Map🖐️ used
+  - Set🖐️ used
+  - undefined🖐️ used
+  - null🖐️ used
+  - Proxy👂 heard
+  - weak collections👂 heard
+  - timers🖐️ used
+  - EventEmitter👂 heard
+  - RegExp👂 heard
+  - Date🖐️ used
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8🎓 known
+  - Node.js🖐️ used
+  - npm🖐️ used
+  - prettier🎓 known
+  - MDN🎓 known
