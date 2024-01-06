@@ -1,8 +1,4 @@
 ## Programming fundamental concepts
- 👂 heard - чув про таке
-🎓 known - вивчав, знаю
-🖐️ used - використовував у 
-🙋 explained
 - Syntax and concepts
   - value🖐️ used
   - identifier🖐️ used
