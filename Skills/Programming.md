@@ -1,53 +1,49 @@
 ## Programming fundamental concepts
- 👂 heard - чув про таке
-🎓 known - вивчав, знаю
-🖐️ used - використовував у 
-🙋 explained
 - Syntax and concepts
   - value🖐️ used
   - identifier🖐️ used
   - variable🖐️ used
   - constant🖐️ used
-  - scalar🖐️ used
+  - scalar👂 heard
   - literal🖐️ used
   - expression🖐️ used
   - heap 👂 heard 
   - function🖐️ used
-  - procedure🖐️ used
+  - procedure👂 heard
   - method🖐️ used
   - class🖐️ used
-  - prototype🎓 known
-  - event🎓 known
+  - prototype👂 heard
+  - event👂 heard
   - type🎓 known
-  - primitive types🎓 known
+  - primitive types👂 heard
   - reference types🎓 known
   - flag🎓 known
   - lexical scope
-  - code block🎓 known
+  - code block👂 heard
   - conditions🎓 known
   - loops🎓 known
-  - assignment 👂 heard
-  - regular expression🎓 known
+  - assignment 
+  - regular expression👂 heardn
   - interface🎓 known
   - contract
-  - module🎓 known
+  - module👂 heard
   - call stack
 - Functions
-  - signature🎓 known
+  - signature👂 heard
   - argument🎓 known
   - parameter🎓 known
-  - pure function🎓 known
+  - pure function👂 heard
   - lambda expression
   - side effects🎓 known
   - closure
-  - partial application🎓 known
-  - curry👂 heard
+  - partial application👂 heard
+  - curry
   - higher order👂 heard
-  - recursion🎓 known
-  - callback🎓 known
-  - listener🎓 known
-  - compose👂 heard
-  - pipe🎓 known
+  - recursion👂 heard
+  - callback👂 heard
+  - listener👂 heard
+  - compose
+  - pipe👂 heard
   - memoize
   - wrapper
   - functor
