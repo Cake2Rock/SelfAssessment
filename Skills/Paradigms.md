@@ -1,42 +1,42 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming🎓 known
-  - Imperative programming🎓 known
-  - Structured programming🎓 known
-  - Non-structured programming🎓 known
-  - Functional programming🎓 known
+  - Procedural programming👂 heard
+  - Imperative programming👂 heard
+  - Structured programming👂 heard
+  - Non-structured programming👂 heard
+  - Functional programming👂 heard
   - Prototype-based programming👂 heard
   - Object-oriented programming👂 heard
   - Object-based programming👂 heard
   - Generic programming🎓 known
-  - Concurrent computing👂 heard
+  - Concurrent computing
   - Asyncronous programming👂 heard
   - Parallel programming🎓 known
   - Reactive programming👂 heard
-  - FRP (Functional-reactive)👂 heard
+  - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor🎓 known
-  - new🎓 known
-  - Static method🎓 known
-  - Method🎓 known
+  - constructor👂 heard
+  - new👂 heard
+  - Static method👂 heard
+  - Method👂 heard
   - Async method👂 heard
   - Getters, Setters👂 heard
-  - Public fields🎓 known
-  - Private fields🎓 known
-  - Field declarations🎓 known
-  - Inheritance🎓 known
-  - Parent class🎓 known
-  - Polymorphism🎓 known
-  - Abstract class🎓 known
-  - Interface🎓 known
-  - Encapsulation👂 heard
-  - Hidden class👂 heard
+  - Public fields👂 heard
+  - Private fields👂 heard
+  - Field declarations👂 heard
+  - Inheritance
+  - Parent class
+  - Polymorphism
+  - Abstract class
+  - Interface
+  - Encapsulation
+  - Hidden class
   - Object form👂 heard
   - instance👂 heard
   - Introspection👂 heard
@@ -49,14 +49,14 @@
   - Observer👂 heard
   - Strategy
   - Facade
-  - Proxy👂 heard
+  - Proxy
   - Chain of Responsibility👂 heard
   - Command👂 heard
   - Iterator👂 heard
-  - State👂 heard
+  - State
   - Bridge
   - Builder
-  - Prototype👂 heard
+  - Prototype
   - Composite
   - Decorator
   - Flyweight
