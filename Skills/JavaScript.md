@@ -1,68 +1,68 @@
 ## Programming fundamental concepts
-    Language
-        Object🖐️ used
-        this🖐️ used
-        arrow function🎓 known
-        async function🎓 known
-        call🎓 known
-        bind🎓 known
-        apply🎓 known
-        instanceof🖐️ used
-        ...spread👂 heard
-        ...rest🎓 known
-        typeof🎓 known
-        destructuring👂 heard
-        generator👂 heard
-        iterator👂 heard
-        async generator👂 heard
-        async iterator👂 heard
-        chaining👂 heard
-        optional chaining👂 heard
-        IIFE👂 heard
-        global🎓 known
-        globalThis🎓 known
-        window👂 heard
-        getters and setters👂 heard
-        __proto__🎓 known
-        prototype👂 heard
-        equality operators🎓 known
-        logical operators🎓 known
-        bitwise operators👂 heard
-        ternary operator🎓 known
-        void👂 heard
-        yield👂 heard
-        await👂 heard
-        template literal👂 heard
-        strict mode👂 heard
-        delete👂 heard
-        in👂 heard
-        super👂 heard
-        Symbol👂 heard
-        Reflect
+- Language
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🎓 known
+  - async function🎓 known
+  - call🎓 known
+  - bind🎓 known
+  - apply🎓 known
+  - instanceof🖐️ used
+  - ...spread👂 heard
+  - ...rest🎓 known
+  - typeof🎓 known
+  - destructuring👂 heard
+  - generator👂 heard
+  - iterator👂 heard
+  - async generator👂 heard
+  - async iterator👂 heard
+  - chaining👂 heard
+  - optional chaining👂 heard
+  - IIFE👂 heard
+  - global🎓 known
+  - globalThis🎓 known
+  - window👂 heard
+  - getters and setters👂 heard
+  - __proto__🎓 known
+  - prototype👂 heard
+  - equality operators🎓 known
+  - logical operators🎓 known
+  - bitwise operators👂 heard
+  - ternary operator🎓 known
+  - void👂 heard
+  - yield👂 heard
+  - await👂 heard
+  - template literal👂 heard
+  - strict mode👂 heard
+  - delete👂 heard
+  - in👂 heard
+  - super👂 heard
+  - Symbol👂 heard
+  - Reflect
 
-    Statements
-        if🖐️ used
-        while🖐️ used
-        do..while🖐️ used
-        for🖐️ used
-        for..inv👂 heard
-        for..ofv👂 heard
-        for await👂 heard
-        throw👂 heard
-        break👂 heard
-        continue👂 heard
-        import🖐️ used
-        export👂 heard
-        label👂 heard
-        try..catch👂 heard
-        switch👂 heard
-        class👂 heard
-        new Error👂 heard
-        with👂 heard
+- Statements
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ used
+  - for..inv👂 heard
+  - for..ofv👂 heard
+  - for await👂 heard
+  - throw👂 heard
+  - break👂 heard
+  - continue👂 heard
+  - import🖐️ used
+  - export👂 heard
+  - label👂 heard
+  - try..catch👂 heard
+  - switch👂 heard
+  - class👂 heard
+  - new Error👂 heard
+  - with👂 heard
 
-    Functions
-        function declaration🖐️ used
-        function expression🖐️ used
-        return🖐️ used
-        default parameters🖐️ used
-        functional object🖐️ used
+- Functions
+  - function declaration🖐️ used
+  - function expression🖐️ used
+  - return🖐️ used
+  - default parameters🖐️ used
+  - functional object🖐️ used
