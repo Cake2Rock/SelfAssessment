@@ -13,16 +13,16 @@
   - Event ports👂 heard
   - libuv👂 heard
   - Race conditions🎓 known
-  - Dead locks🎓 known
-  - Live locks🎓 known
-  - Concurrent programming🎓 known
-  - Parallel programming🎓 known
+  - Dead locks👂 heard
+  - Live locks👂 known
+  - Concurrent programming👂 heard
+  - Parallel programming👂 known
   - Actor Model👂 heard
-  - Thread🎓 known
-  - Process🎓 known
+  - Thread👂 known
+  - Process👂 known
 - Async contracts
   - Callbacks🎓 known
-  - Callback-last-error-first🎓 known
+  - Callback-last-error-first👂 heard
   - Thenable👂 heard
   - Promise🎓 known
   - Async/await🎓 known
@@ -33,10 +33,10 @@
   - Async Iterator👂 heard
   - Event👂 heard
   - Coroutine🎓 known
-  - Goroutine🎓 known
-  - Signal🎓 known
-  - Stream🎓 known
-  - Chain of responsibility🎓 known
+  - Goroutine👂 heard
+  - Signal👂 known
+  - Stream👂 known
+  - Chain of responsibility👂 known
   - Middleware
   - Locks👂 heard
 - Async adapters and utils
@@ -58,9 +58,9 @@
   - Mutex👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers🎓 known
-  - setImmediate🎓 known
-  - nextTick🎓 known
+  - Timers👂 known
+  - setImmediate👂 known
+  - nextTick👂 known
   - AbortController👂 heard
   - AbortSignal👂 heard
   - Promise unhandled rejection
@@ -68,9 +68,9 @@
   - child_process👂 heard
   - worker_threads👂 heard
   - Atomics
-  - High resolution clock🎓 known
-  - Callback hell🖐️ used
-  - Promise hell🎓 known
+  - High resolution clock👂 known
+  - Callback hell👂 heard
+  - Promise hell👂 known
   - ref() and unref()👂 heard
   - Error handling in async code
   - Better stack traces with return await👂 heard
