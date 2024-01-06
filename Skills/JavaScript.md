@@ -8,81 +8,61 @@
   - bind🎓 known
   - apply🎓 known
   - instanceof🖐️ used
-  - ...spread👂 heard 
+  - ...spread👂 heard
   - ...rest🎓 known
   - typeof🎓 known
-  - destructuring👂 heard 
-  - generator👂 heard 
-  - iterator🎓 known
+  - destructuring👂 heard
+  - generator👂 heard
+  - iterator👂 heard
   - async generator👂 heard
   - async iterator👂 heard
-  - chaining
-  - optional chaining
-  - IIFE
+  - chaining👂 heard
+  - optional chaining👂 heard
+  - IIFE👂 heard
   - global🎓 known
   - globalThis🎓 known
   - window👂 heard
-  - getters and setters
+  - getters and setters👂 heard
   - __proto__🎓 known
   - prototype👂 heard
   - equality operators🎓 known
   - logical operators🎓 known
-  - bitwise operators🎓 known
+  - bitwise operators👂 heard
   - ternary operator🎓 known
-  - void🎓 known
-  - yield🎓 known
+  - void👂 heard
+  - yield👂 heard
   - await👂 heard
-  - template literal
-  - strict mode
-  - delete🎓 known
-  - in🎓 known
+  - template literal👂 heard
+  - strict mode👂 heard
+  - delete👂 heard
+  - in👂 heard
   - super👂 heard
-  - Symbol🎓 known
+  - Symbol👂 heard
   - Reflect
+
 - Statements
   - if🖐️ used
   - while🖐️ used
   - do..while🖐️ used
   - for🖐️ used
-  - for..inv🖐️ used
-  - for..ofv🎓 known
-  - for await🎓 known
+  - for..inv👂 heard
+  - for..ofv👂 heard
+  - for await👂 heard
   - throw👂 heard
-  - break🖐️ used
-  - continue🖐️ used
+  - break👂 heard
+  - continue👂 heard
   - import🖐️ used
-  - export🖐️ used
-  - label🖐️ used
-  - try..catch🖐️ used
-  - switch🖐️ used
-  - class🖐️ used
-  - new Error
-  - with🖐️ used
+  - export👂 heard
+  - label👂 heard
+  - try..catch👂 heard
+  - switch👂 heard
+  - class👂 heard
+  - new Error👂 heard
+  - with👂 heard
+
 - Functions
   - function declaration🖐️ used
   - function expression🖐️ used
   - return🖐️ used
   - default parameters🖐️ used
   - functional object🖐️ used
-- Data structures
-  - Array🖐️ used
-  - mixin👂 heard
-  - extend👂 heard
-  - typed arrays👂 heard
-  - Map🖐️ used
-  - Set🖐️ used
-  - undefined🖐️ used
-  - null🖐️ used
-  - Proxy
-  - weak collections👂 heard
-  - timers🖐️ used
-  - EventEmitter👂 heard
-  - RegExp👂 heard
-  - Date🖐️ used
-  - BigInt
-- Infrastructure
-  - V8🎓 known
-  - Node.js🖐️ used
-  - npm🖐️ used
-  - prettier🎓 known
-  - MDN🎓 known
