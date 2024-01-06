@@ -16,9 +16,9 @@
   - iterator🎓 known
   - async generator👂 heard
   - async iterator👂 heard
-  - chaining👂 heard
-  - optional chaining👂 heard
-  - IIFE👂 heard
+  - chaining
+  - optional chaining
+  - IIFE
   - global🎓 known
   - globalThis🎓 known
   - window👂 heard
@@ -38,7 +38,7 @@
   - in🎓 known
   - super👂 heard
   - Symbol🎓 known
-  - Reflect👂 heard
+  - Reflect
 - Statements
   - if🖐️ used
   - while🖐️ used
@@ -56,7 +56,7 @@
   - try..catch🖐️ used
   - switch🖐️ used
   - class🖐️ used
-  - new Error👂 heard
+  - new Error
   - with🖐️ used
 - Functions
   - function declaration🖐️ used
@@ -73,7 +73,7 @@
   - Set🖐️ used
   - undefined🖐️ used
   - null🖐️ used
-  - Proxy👂 heard
+  - Proxy
   - weak collections👂 heard
   - timers🖐️ used
   - EventEmitter👂 heard
