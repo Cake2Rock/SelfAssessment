@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Procedural programming🎓 known
+  - Imperative programming🎓 known
+  - Structured programming🎓 known
+  - Non-structured programming🎓 known
+  - Functional programming🎓 known
+  - Prototype-based programming👂 heard
+  - Object-oriented programming👂 heard
+  - Object-based programming👂 heard
+  - Generic programming🎓 known
+  - Concurrent computing👂 heard
+  - Asyncronous programming👂 heard
+  - Parallel programming🎓 known
+  - Reactive programming👂 heard
+  - FRP (Functional-reactive)👂 heard
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor🎓 known
+  - new🎓 known
+  - Static method🎓 known
+  - Method🎓 known
+  - Async method👂 heard
+  - Getters, Setters👂 heard
+  - Public fields🎓 known
+  - Private fields🎓 known
+  - Field declarations🎓 known
+  - Inheritance🎓 known
+  - Parent class🎓 known
+  - Polymorphism🎓 known
+  - Abstract class🎓 known
+  - Interface🎓 known
+  - Encapsulation👂 heard
+  - Hidden class👂 heard
+  - Object form👂 heard
+  - instance👂 heard
+  - Introspection👂 heard
+  - Reflection👂 heard
 - Patterns
-  - Singleton
+  - Singleton👂 heard
   - Factory Method
   - Abstract Factory
-  - Adapter
-  - Observer
+  - Adapter👂 heard
+  - Observer👂 heard
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Proxy👂 heard
+  - Chain of Responsibility👂 heard
+  - Command👂 heard
+  - Iterator👂 heard
+  - State👂 heard
   - Bridge
   - Builder
-  - Prototype
+  - Prototype👂 heard
   - Composite
   - Decorator
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor👂 heard
