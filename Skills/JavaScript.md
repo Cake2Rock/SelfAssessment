@@ -86,9 +86,3 @@
         npm
         prettier
         MDN
-
-  - V8🎓 known
-  - Node.js🖐️ used
-  - npm🖐️ used
-  - prettier🎓 known
-  - MDN🎓 known
