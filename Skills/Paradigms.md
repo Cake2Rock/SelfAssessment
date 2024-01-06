@@ -1,5 +1,6 @@
 ## Multi-paradigm programming
 
+
 - Theory
   - Procedural programming🎓 known
   - Imperative programming🎓 known
